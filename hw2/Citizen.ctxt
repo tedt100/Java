@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=name1\ state1\ income1\ dependents1\ expat1
+comment0.target=Citizen(java.lang.String,\ java.lang.String,\ double,\ int,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Citizen\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getState()
+comment3.params=
+comment3.target=double\ getIncome()
+comment4.params=
+comment4.target=int\ getDependents()
+comment5.params=
+comment5.target=boolean\ getExpat()
+numComments=6

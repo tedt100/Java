@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TaxCollector()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TaxCollector\r\n
+comment1.params=
+comment1.target=void\ displayCollectedTax()
+comment1.text=\r\n\ This\ method\ displays\ the\ total\ tax\ collected\r\n
+comment2.params=x
+comment2.target=void\ collect(Citizen)
+comment2.text=\r\n\ this\ method\r\n\ 1\ computes\ income\ tax\r\n\ 2\ reduces\ income\ tax\ by\ deductions\r\n\ 3\ adds\ social\ services\ tax\r\n\ 4\ deducts\ the\ tax\ from\ the\ income\ of\ the\ citizen\r\n\ 5\ informs\ the\ citizen\ about\ the\ collected\ tax\r\n\ 6\ updates\ the\ total\ collected\ tax\r\n
+numComments=3
